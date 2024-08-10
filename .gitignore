@@ -1,6 +1,7 @@
 .venv
 .
 ./
+venv
 
-/chrome-mac-arm64
+
 .DS_Store

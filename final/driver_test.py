@@ -2,7 +2,7 @@ import webbrowser
 import time
 from selenium import webdriver
 
-driver = webdriver.Chrome()  # Optional argument, if not specified will search path.
+driver = webdriver.Chrome() 
 driver.get('http://127.0.0.1:5500/final/test.html')
 time.sleep(5) # Let the user actually see something!
 search_box = driver.find_element_by_name('q')

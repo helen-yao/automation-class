@@ -18,7 +18,7 @@ driver.get(url)
 # --------------YOUR CODE GOES HERE -------------- 
 # There are four tasks worth 10 pts each (if you haven't finished the entire project, you can still get partial credit)
 # TODO: Print out the first quote by Einstein (10 pts)
-# hint: you can extract the text by using .textContent on the element
+# hint: you can extract the text by using .text on the element
 
 
 # TODO: Print out the top ten tags (10 pts)

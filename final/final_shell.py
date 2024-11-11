@@ -6,7 +6,7 @@ import time
 # ----------------------------------------
 # 1) start your virtual environment :
 # mac: source .venv/bin/activate
-# windows: .\venv\Scripts\activate ??
+# windows: .venv\Scripts\activate
 # 2) pip install webdriver_manager
 # 3) pip install selenium
 # ----------------------------------------

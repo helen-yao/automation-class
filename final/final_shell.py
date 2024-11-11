@@ -22,7 +22,7 @@ driver.get(url)
 
 
 # TODO: Print out the top ten tags (10 pts)
-# hint: you want to find the div that contains the top ten tags, then use a for loop to print them out
+# hint: you might want to use find_elements instead of find_element (and look by class instead of XPATH), then use a for loop to print the content of each element
 
 
 # TODO: Click the login button (10 pts)
